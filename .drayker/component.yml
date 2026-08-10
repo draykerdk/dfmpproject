@@ -1,0 +1,32 @@
+schema_version: 1
+component:
+  id: dfmpproject
+  name: DFMPProject
+  layer: PROTOCOL
+  artifact_type: project-framework
+  problem: Give voluntary projects a clear, modular path from an initial intention to work that others can enter.
+  scope:
+    - Public proposal for creating projects through DFM.
+    - Future templates and examples for project proposals.
+  non_scope:
+    - A complete project-incubation service.
+    - Published templates that do not yet exist in this repository.
+  dependencies:
+    - dfmp
+    - daf
+  implementation:
+    level: none
+    scope: The project framework is described, but its proposal templates and worked examples are not yet published.
+    evidence:
+      - type: document
+        ref: README.md
+  risks:
+    - The absence of templates makes the public entry route ambiguous.
+    - Governance relationships may be read as active processes before they exist.
+  contributions:
+    availability: open
+    entrypoint: https://github.com/draykerdk/dfmpproject/issues
+  source_of_truth:
+    repository: https://github.com/draykerdk/dfmpproject
+    path: README.md
+  last_reviewed: "2026-08-10"
