@@ -18,7 +18,7 @@ The door into the ecosystem for anyone who is not part of the main projects yet.
 
 Main projects sit in Drayker's priority queues and are described in [Dknowledge](https://dknowledge.drayker.org). Projects outside that set can be opened and proposed by anyone through this repository, and can be integrated into the Drayker labs organization.
 
-The method behind all of it is [DFM / DFMP](https://dfmp.drayker.org) — the same protocol the main projects pass through. A proposed project lives on the [projects platform](https://pap.drayker.org) once composed, with participation attributed through [UID](https://uid.drayker.org) and formation supplied by the [Academy](https://academy.drayker.org). The organizational link is [DAF](https://daf.drayker.org), where a project can become an autonomous unit of the federation. A project that works becomes an application; an application that works carries its own fund. The path is the same for every project in the ecosystem, whether it started in the queue or at the edge.
+The method behind all of it is [DFM / DFMP](https://dfmp.drayker.org) — the same protocol the main projects pass through. A proposed project lives on the [projects platform](https://pap.drayker.org) once composed, with participation attributed through [UID](https://uid.drayker.org) and formation supplied by the [Academy](https://academy.drayker.org). The organizational link is [DAF](https://daf.drayker.org), where a project can become an autonomous unit of the federation. A project that works becomes an application; an application that works receives accountable capacity allocations under temporary custody. The path is the same for every project in the ecosystem, whether it started in the queue or at the edge.
 
 ## State of this documentation
 
