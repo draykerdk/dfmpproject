@@ -1,6 +1,6 @@
 # DFMPProject
 
-> Models for proposing a voluntary, collaborative project through DFM.
+> DFMPProject develops the proposal models for collaborative projects in Drayker. It connects an objective to a clear scope, functional structure and a public path for review.
 
 DFMPProject is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
 

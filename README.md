@@ -1,8 +1,18 @@
-DFMPProject is how a voluntary, collaborative project related to Drayker and its ecosystem gets proposed. The models for turning an intention into something other people can join.
+> Give an intention a structure others can join.
+
+DFMPProject develops the proposal models for collaborative projects in Drayker. It connects an objective to a clear scope, functional structure and a public path for review.
+
+A project proposal explains the problem, intended outcome, modules and initial functions, giving reviewers enough context to assess and improve it.
+
+A well-formed proposal helps participants understand what they are joining and gives later decisions a shared point of reference.
+
+## A practical example
+
+A proposed community study could state its research question, available evidence and first deliverable before inviting people to take individual functions. This is an illustration of the proposed design.
 
 ## Why this exists
 
-Drayker is a way of working where people keep creating, discovering and learning while intelligence carries the rest, and what results reaches the work that produced it. This is where the method meets a concrete proposal, and where a project stops being a conversation.
+This is where the method meets a concrete proposal, and where a project stops being a conversation.
 
 The argument in full is on the [manifesto](https://drayker.org/manifesto/). The [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
 
