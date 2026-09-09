@@ -13,7 +13,7 @@ plugins:
   - jekyll-sitemap
 
 title: "DFMPProject"
-description: "Models for proposing a voluntary, collaborative project through DFM."
+description: "Give an intention a structure others can join. DFMPProject develops the proposal models for collaborative projects in Drayker. It connects an objective to a clear scope, functional structure and a public path for review."
 
 dk_kicker: "Projects"
 dk_subdomain: "dfmpproject.drayker.org"
