@@ -26,7 +26,7 @@ That is the whole trick. A project nobody can enter halfway through is a project
 
 The door into the ecosystem for anyone who is not part of the main projects yet.
 
-Main projects sit in Drayker's priority queues and are described in [Dknowledge](https://dknowledge.drayker.org). Projects outside that set can be opened and proposed by anyone through this repository, and can be integrated into the Drayker labs organization.
+Main projects sit in Drayker's priority queues and are described in [Dknowledge](https://dknowledge.drayker.org). Projects outside that set can be opened and proposed by anyone through this repository, and can be integrated into [`draykerlabs`](https://github.com/draykerlabs), the GitHub organization reserved for projects outside the main set (it holds no repositories yet).
 
 The method behind all of it is [DFM / DFMP](https://dfmp.drayker.org) — the same protocol the main projects pass through. A proposed project lives on the [projects platform](https://pap.drayker.org) once composed, with participation attributed through [UID](https://uid.drayker.org) and formation supplied by the [Academy](https://academy.drayker.org). The organizational link is [DAF](https://daf.drayker.org), where a project can become an autonomous unit of the federation. A project that works becomes an application; an application that works receives accountable capacity allocations under temporary custody. The path is the same for every project in the ecosystem, whether it started in the queue or at the edge.
 
@@ -40,4 +40,4 @@ Open an issue with your project proposal, or with a draft of the model. Issues s
 
 ---
 
-Drayker is a volunteer, non-profit organization. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Drayker is a non-profit organization, and its work is primarily voluntary. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
