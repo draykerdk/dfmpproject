@@ -40,4 +40,4 @@ Open an issue with your project proposal, or with a draft of the model. Issues s
 
 ---
 
-Drayker is a non-profit organization, and its work is primarily voluntary. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Drayker is non-profit, and its work is primarily voluntary. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
