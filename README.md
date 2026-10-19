@@ -42,4 +42,4 @@ Open an issue with your project proposal, or with a draft of the model. Issues s
 
 ---
 
-Drayker has no owner, no shareholders and no profit distribution, and its work is primarily voluntary. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Drayker belongs to its members, has no shareholders and distributes no profit, and its work is primarily voluntary. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
